@@ -245,6 +245,26 @@ Edit `ultimate_settings.json` to customize:
 
 </div>
 
+## 🌐 Provider Coverage
+
+<div align="center">
+
+> ⚠️ **Important Notice**
+> 
+> I don't have accounts for all 273+ webmail providers listed.
+> Some providers may not work correctly or may need updates.
+> 
+> **If you find a broken provider** or **have an IMAP/POP3 provider not in the list**,
+> please message me privately on Telegram!
+> 
+> [![Message Me](https://img.shields.io/badge/Message_Me-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DoYouLikePopo)
+> 
+> Your feedback helps improve the tool for everyone! 🙏
+
+---
+
+</div>
+
 ## 📜 Disclaimer
 
 <div align="center">
