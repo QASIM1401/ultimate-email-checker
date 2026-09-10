@@ -242,6 +242,19 @@ Edit `ultimate_settings.json` to customize:
 
 ---
 
+### 🚀 **The More Accounts You Provide, The Better It Gets!**
+
+> 💡 **Help us improve!**
+> 
+> The more test accounts and provider access we get,
+> the more providers we can verify, fix, and optimize.
+> 
+> Every provider you help test = faster improvements for everyone!
+> 
+> [![Contribute](https://img.shields.io/badge/Help_Improve-Telegram-green?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DoYouLikePopo)
+
+---
+
 </div>
 
 ## 📜 Disclaimer
