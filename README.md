@@ -67,27 +67,6 @@
 
 ---
 
-## 📋 Supported Providers
-
-<details>
-<summary><b>📱 Click to view all 273+ providers</b></summary>
-
-<br>
-
-| Category | Providers |
-|----------|-----------|
-| **Gmail** | Gmail, Google Workspace |
-| **Outlook** | Outlook, Hotmail, Live, MSN, Office365 |
-| **Yahoo** | Yahoo Mail, Yahoo Business |
-| **Apple** | iCloud, Me, Mac |
-| **ISP** | AOL, Comcast, Verizon, AT&T, EarthLink |
-| **Business** | Zoho, Yandex, Mail.ru, ProtonMail, Tutanota |
-| **Custom** | Any IMAP/POP3 server via MX lookup |
-
-</details>
-
----
-
 ## ⚡ Quick Start
 
 ### 1. Install Dependencies
