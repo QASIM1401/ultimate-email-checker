@@ -245,18 +245,6 @@ Edit `ultimate_settings.json` to customize:
 
 </div>
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how:
-
-1. 🍴 Fork the repository
-2. 🌟 Create your feature branch
-3. 📝 Commit your changes
-4. 🚀 Push to the branch
-5. 📬 Create a Pull Request
-
----
-
 ## 📜 Disclaimer
 
 <div align="center">
