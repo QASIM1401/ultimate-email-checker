@@ -190,27 +190,6 @@ Edit `ultimate_settings.json` to customize:
 
 ---
 
-## 🔒 Security
-
-<details>
-<summary><b>9-Layer Protection System</b></summary>
-
-<br>
-
-1. ⏰ **Auto-Expiration** (15 days)
-2. 🔐 **AES-256-CBC Encryption**
-3. 📦 **Triple Compression** (zlib + bz2 + lzma)
-4. 🔑 **Double XOR Encryption**
-5. 📝 **Base85 Encoding**
-6. 🔀 **Chunk Shuffling**
-7. 🛡️ **Anti-Debugging**
-8. 🎭 **Opaque Predicates**
-9. 💀 **Dead Code Injection**
-
-</details>
-
----
-
 ## ⚠️ Important Notes
 
 | Note | Details |
